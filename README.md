@@ -9,3 +9,5 @@ for test 2
   remote branch
 - feature f1
 - feature f1 \*
+  branch 2
+  55
