@@ -7,3 +7,5 @@ for test 2
 
 - branch
   remote branch
+- feature f1
+- feature f1 \*
