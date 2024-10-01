@@ -1,3 +1,2 @@
 file 3
 add feature 1
-0
